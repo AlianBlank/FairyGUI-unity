@@ -29,3 +29,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Source/Temp/
+Source/ProjectSettings/
+Source/Library/
+*.meta
